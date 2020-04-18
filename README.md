@@ -47,8 +47,8 @@ The descriptions above are really pretty minimal and you can look into the codes
  You can look at some visuals on these links :
  
   * [Turtlebot3 Implementation](https://drive.google.com/file/d/1ty_nfzRAUlSy7eWQO9Vhc4obZrf6Zfao/view?usp=sharing)
-  * [Prius Model Implementation video 1](https://drive.google.com/drive/u/0/folders/1yslWQ4UmodGPEuPAHf7tfBNvLO9uRDUC) 
-  * [Prius Model Implementaition video 2](https://drive.google.com/drive/u/0/folders/1yslWQ4UmodGPEuPAHf7tfBNvLO9uRDUC)
+  * [Prius Model Implementation video 1](https://drive.google.com/file/d/1-1PNkAlDu6TM5TiKxRsgzrPVmJyhmbnf/view?usp=sharing) 
+  * [Prius Model Implementaition video 2](https://drive.google.com/file/d/18H_4tXTmc2KiJ0zluEte9EAZ4eD1uTCy/view?usp=sharing)
    
  
  
