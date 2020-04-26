@@ -50,5 +50,8 @@ The descriptions above are really pretty minimal and you can look into the codes
   * [Prius Model Implementation video 1](https://drive.google.com/file/d/1-1PNkAlDu6TM5TiKxRsgzrPVmJyhmbnf/view?usp=sharing) 
   * [Prius Model Implementaition video 2](https://drive.google.com/file/d/18H_4tXTmc2KiJ0zluEte9EAZ4eD1uTCy/view?usp=sharing)
    
+ ## FAQ
+ 
+ >   * For any doubts and clarification contact [me](https://www.linkedin.com/in/rajith-rahul-kumar-a55398120/).
  
  
